@@ -1,1 +1,3 @@
-# blog
+# Blogging Website
+---
+Listing all blogs.
